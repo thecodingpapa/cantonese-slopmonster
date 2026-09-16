@@ -1,0 +1,4 @@
+interface:
+  display_name: "香港廣東話執稿"
+  short_description: "香港口語廣東話執稿，保留原意、數字、引文同拍攝提示，附有限規則檢查"
+  default_prompt: "Use $cantonese-slopmonster to polish this script into conversational Hong Kong Cantonese in Traditional Chinese, preserving every fact and production cue."
